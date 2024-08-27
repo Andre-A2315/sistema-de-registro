@@ -4,4 +4,4 @@
 
 Para ejecutar el sistema, debes poner:
 
-ˋˋˋˋnpm install reactˋˋˋˋ
+npm install react
